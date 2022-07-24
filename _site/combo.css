@@ -516,22 +516,6 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-awards { border-color: #63BD2F; }
-  #awards { background-color: #63BD2F !important; color: #f8f8f8; }
-  #awards a { color: #f8f8f8; }
-  #awards .sectiondivider { color: #63BD2F; }
-
-  
-  
-  
-  nav .p-activities { border-color: #fab125; }
-  #activities { background-color: #fab125 !important; color: #111111; }
-  #activities a { color: #111111; }
-  #activities .sectiondivider { color: #fab125; }
-
-  
-  
-  
   nav .p-research { border-color: #49a7e9; }
   #research { background-color: #49a7e9 !important; color: #f8f8f8; }
   #research a { color: #f8f8f8; }
